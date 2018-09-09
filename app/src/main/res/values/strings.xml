@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="registro">Registro</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo">E-Mail</string>
+    <string name="estudiante">Estudiante</string>
+    <string name="profesor">Profesor</string>
+    <string name="telefono">Telefono</string>
+    <string name="guardar">Guardar</string>
+    <string name="agregar">Agregar</string>
+    <string name="eliminar">Eliminar</string>
+</resources>
